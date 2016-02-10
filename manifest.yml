@@ -8,5 +8,3 @@ applications:
   disk_quota: 1024M
   services:
   - Insights for Twitter-tn
-  env:
-    
