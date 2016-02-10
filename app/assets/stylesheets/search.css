@@ -1,7 +1,3 @@
-// Place all the styles related to the Search controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
-
 /*
 *  Copyright IBM Corp. 2015  All Rights Reserved.
 *  IBM Insights for Twitter Demo App - Beta version
@@ -159,7 +155,7 @@
 	font-size:10pt;
 	background-color:#5EA9DD;
 	border-radius:5px;
-	font-weight: bold;"
+	font-weight: bold;
 }
 
 .display_logo {

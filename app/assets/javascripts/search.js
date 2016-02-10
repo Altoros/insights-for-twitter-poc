@@ -218,7 +218,7 @@ function countTweets(term) {
 		searchReset();
 		spinnerStart();
 		$.ajax({
-			url: service_url + ":" + service_port +"/api/v1/messages/count",
+			url: count_tweets_url,
 			type: 'GET',
 			contentType:'application/json',
 			data: {
