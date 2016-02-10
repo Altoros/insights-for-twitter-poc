@@ -6,3 +6,5 @@ applications:
   name: twitter-insights-poc
   host: twitter-insights-poc
   disk_quota: 1024M
+  services:
+  - Insights for Twitter-tn

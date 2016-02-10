@@ -1,0 +1,5 @@
+twitter_insights_username: "username"
+twitter_insights_password: "password"
+twitter_insights_host: "cdeservice.mybluemix.net"
+twitter_insights_port: "443"
+twitter_insights_url: "https://username:password@cdeservice.mybluemix.net"
