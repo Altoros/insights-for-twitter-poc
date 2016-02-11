@@ -1,0 +1,5 @@
+/log/
+/tmp/
+.byebug_history
+config/application.yml
+manifest.yml
